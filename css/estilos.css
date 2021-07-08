@@ -1,0 +1,20 @@
+body
+{
+    color: blue;
+    text-align: center;
+    font-family: Arial;
+}
+
+#cabecera
+{
+    background: yellow;
+}
+
+#contanier
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid blueviolet;
+    margin: 0 auto;
+}
